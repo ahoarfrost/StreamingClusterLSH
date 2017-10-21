@@ -4,3 +4,4 @@ A super simple implementation streaming LSH clustering, with naive cluster assig
 * process chunks of reads at a time
 * write to cluster namespace in redis database or something
 * reorg as clusterLSH class
+* add get read chunks from fasta file
